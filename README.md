@@ -1,3 +1,3 @@
 # GithubDemo
 Very First GithubRepo
-Author - Rakshak Rathor
+Author - Rakshak Rathore
